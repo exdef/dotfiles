@@ -1,0 +1,31 @@
+compton
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#	modified:   Xresources
+#	modified:   bash_aliases
+#	modified:   bash_logout
+#	modified:   bash_profile
+#	modified:   bashrc
+#	new file:   compton
+#	modified:   dircolors
+#	modified:   gvimrc
+#	modified:   i3/.i3blocks-1.conf
+#	modified:   i3/.i3blocks-2.conf
+#	modified:   i3/config
+#	modified:   i3/i3.pyc
+#	modified:   i3/output-1.json
+#	modified:   i3/output-2.json
+#	modified:   i3/switch1.py
+#	modified:   i3/workspace-1.json
+#	modified:   i3/workspace-5.json
+#	modified:   inputrc
+#	modified:   link.sh
+#	modified:   profile
+#	modified:   toprc
+#	modified:   vim/.netrwhist
+#	modified:   vim/autoload/pathogen.vim
+#	modified:   vim/syntax/python.vim
+#	modified:   vimrc
+#

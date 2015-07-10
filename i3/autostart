@@ -1,0 +1,8 @@
+#!/bin/sh
+#xset -b &
+#xset dpms 300 600 900 &
+nitrogen --set-auto /home/flo/Pictures/Wallpapers/globophobiabig.jpg &
+#sudo g400_hack -3600
+dropbox &
+skype &
+mpd &

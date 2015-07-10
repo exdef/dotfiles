@@ -1,0 +1,29 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: stop
+current: 3
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Deichkind/Niveau Weshalb Warum/01 - So'ne Musik.mp3
+1:Deichkind/Niveau Weshalb Warum/02 - Denken Sie Groß.mp3
+2:Deichkind/Niveau Weshalb Warum/03 - Like Mich Am Arsch.mp3
+3:Deichkind/Niveau Weshalb Warum/04 - Powered By Emotion.mp3
+4:Deichkind/Niveau Weshalb Warum/05 - Porzellan Und Elefanten.mp3
+5:Deichkind/Niveau Weshalb Warum/06 - Was Habt Ihr.mp3
+6:Deichkind/Niveau Weshalb Warum/07 - Mehr Als Lebensgefährlich.mp3
+7:Deichkind/Niveau Weshalb Warum/08 - Der Flohmarkt Ruft (feat. Herr Spiegelei).mp3
+8:Deichkind/Niveau Weshalb Warum/09 - Naschfuchs.mp3
+9:Deichkind/Niveau Weshalb Warum/10 - Die Welt Ist Fertig.mp3
+10:Deichkind/Niveau Weshalb Warum/11 - Niveau Weshalb Warum.mp3
+11:Deichkind/Niveau Weshalb Warum/12 - Hauptsache Nichts Mit Menschen.mp3
+12:Deichkind/Niveau Weshalb Warum/13 - Oma Gib Handtasche.mp3
+13:Deichkind/Niveau Weshalb Warum/14 - Selber Machen Lassen.mp3
+14:Deichkind/Niveau Weshalb Warum/15 - Schlafwandler.mp3
+playlist_end

@@ -1,0 +1,24 @@
+{
+    "name": "flo@flopc:~",
+    "percent": 0.5,
+    "swallows": [
+       {
+       "class": "^Termite$",
+       "instance": "^termite$"
+       }
+    ],
+    "type": "con"
+}
+
+{
+    "name": "flo@flopc:~",
+    "percent": 0.5,
+    "swallows": [
+       {
+       "class": "^Termite$",
+       "instance": "^termite$"
+       }
+    ],
+    "type": "con"
+}
+

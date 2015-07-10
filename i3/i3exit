@@ -1,0 +1,27 @@
+#!/bin/sh
+
+case "$1" in
+    lock)
+       	i3lock -i /home/flo/Pictures/Wallpapers/globophobiabig.png -u && sleep 1
+	;;
+    logout)
+        i3-msg exit
+        ;;
+    suspend)
+        systemctl suspend | i3lock -i /home/flo/Pictures/Wallpapers/globophobiabig.png -u 
+        ;;
+    hibernate)
+        systemctl hibernate | i3lock -i /home/flo/Pictures/Wallpapers/globophobiabig.png -u && sleep 1
+        ;;
+    reboot)
+        sudo reboot
+        ;;
+    shutdown)
+        sudo shutdown -h now
+        ;;
+    *)
+        echo "Usage: $0 {lock|logout|suspend|hibernate|reboot|shutdown}"
+        exit 2
+esac
+
+exit 0
